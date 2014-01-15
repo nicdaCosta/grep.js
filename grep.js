@@ -81,3 +81,7 @@ Object.prototype.Grep = function( strSearch , isRecursive ) {
 	return ( Object.getOwnPropertyNames( objResult ).length ) ? objResult : '';
 
 };
+
+if ( root ){
+	module.exports = Object;
+}
