@@ -27,6 +27,8 @@ eg:
 
 Should you wish to use this with an interface as opposed to having to use the console, [http://object.hasownproperty.com](http://object.hasownproperty.com) can be used.
 
+Based on original [grep.js gist](https://gist.github.com/nicdaCosta/4072412)
+
 ### License
 Copyright (c) 2014 Nic da Costa  
 Licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
