@@ -25,9 +25,19 @@ eg:
  // returns an object of matched results and their relative properties
 ```
 
+For usage in node you will need to use require:
+
+```js
+Object = require( 'grep' );
+```
+
 Should you wish to use this with an interface as opposed to having to use the console, [http://object.hasownproperty.com](http://object.hasownproperty.com) can be used.
 
 Based on original [grep.js gist](https://gist.github.com/nicdaCosta/4072412)
+
+### Contributing
+
+Please run grunt tasks before submitting a pull request and adhere to the existing style.
 
 ### License
 Copyright (c) 2014 Nic da Costa  
